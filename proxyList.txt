@@ -1,4 +1,4 @@
-3.1.94.232,443,SG,Amazon Data Services 8.218.148.106,443O,HK,Alibaba Cloud singapore Private LimitedISP
+3.1.94.232,443,SG,Amazon Data Services 
 4.193.111.126,40809,SG,Microsoft Corporation
 8.218.148.106,443,HK,Alibaba us Technology Co
 103.168.146.169,20132,ID,Pt Herza Digital Indonesia
@@ -9,3 +9,4 @@
 103.133.223.52,2096,ID,Pt Cloud Teknologi Nusantara
 172.232.231.24,587,ID,Akamai Technologies, Inc
 203.194.112.119,8443,ID,Rumahweb
+8.218.148.106,443O,HK,Alibaba Cloud singapore Private LimitedISP
