@@ -34,7 +34,8 @@ Kode ini masih perlu banyak perbaikan, jadi silahkan berkontribusi dan berikan P
 6. Deploy
 7. Buka `https://DOMAIN_WORKER_KALIAN/sub`
 
-- Contoh daftar proxy [proxyList.txt](https://raw.githubusercontent.com/fahayu/Nautica/refs/heads/main/proxyList.txt)
+- Contoh daftar proxy [proxyList.txt]
+- (https://raw.githubusercontent.com/fahayu/Nautica/refs/heads/main/proxyList.txt)
 - Contoh reverse proxy [example.com](https://example.com)
 
 # Endpoint
